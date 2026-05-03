@@ -32,8 +32,7 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_ts-number-to-chinese-words&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=siakhooi_ts-number-to-chinese-words)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_ts-number-to-chinese-words&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=siakhooi_ts-number-to-chinese-words)
 
-[![Generic badge](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg)](https://www.buymeacoffee.com/siakhooi)
-[![Generic badge](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg)](https://ko-fi.com/siakhooi)
+[![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 ![count](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-ts-number-to-chinese-words)
 
 ## Features
