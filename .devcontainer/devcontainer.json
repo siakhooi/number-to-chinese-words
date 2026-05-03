@@ -8,19 +8,16 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"github.copilot",
-				"github.copilot-chat",
 				"lfm.vscode-makefile-term",
 				"kisstkondoros.vscode-codemetrics",
 				"dbaeumer.vscode-eslint",
 				"redhat.vscode-yaml",
-				"esbenp.prettier-vscode",
-				"github.vscode-github-actions"
+				"esbenp.prettier-vscode"
 			]
 		}
 	},
 	"mounts": [
-		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/maui/.ssh,type=bind,consistency=cached"
+		"source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
 	],
 	"remoteEnv": {
 		"LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
