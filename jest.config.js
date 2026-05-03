@@ -4,6 +4,10 @@
  */
 
 module.exports = {
+  transform: {
+    '^.+.tsx?$': ['ts-jest', {tsconfig: 'tsconfig.test.json'}],
+  },
+  transformIgnorePatterns: ['/node_modules/'],
   // All imported modules in your tests should be mocked automatically
   // automock: false,
 
