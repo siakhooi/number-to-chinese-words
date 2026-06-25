@@ -2,10 +2,10 @@ name: Build with Quality Check
 on:
   push:
     branches:
-      - '*'
+      - "**"
   pull_request:
     branches:
-      - main
+      - "**"
 
 jobs:
   test:
